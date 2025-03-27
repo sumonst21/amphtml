@@ -32,14 +32,14 @@
     "url": "https://github.com/GoogleChrome/sw-toolbox/issues"
   },
   "dependencies": {
-    "path-to-regexp": "^1.0.1",
+    "path-to-regexp": "^8.2.0",
     "serviceworker-cache-polyfill": "^4.0.0"
   },
   "description": "Service Worker Toolbox provides some simple helpers for use in creating your own service workers.",
   "devDependencies": {
     "browserify": "^13.1.0",
     "chai": "^3.4.1",
-    "chromedriver": "^2.27.2",
+    "chromedriver": "^134.0.5",
     "cookie-parser": "^1.4.1",
     "eslint": "^3.13.1",
     "eslint-config-google": "^0.7.1",
